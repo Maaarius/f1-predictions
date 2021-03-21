@@ -1,6 +1,7 @@
 # Added
 .vscode
 data/
+./spyproject/*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
