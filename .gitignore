@@ -1,6 +1,6 @@
 # Added
 .vscode
-data/
+data/*
 ./spyproject/*
 
 # Byte-compiled / optimized / DLL files
