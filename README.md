@@ -10,13 +10,14 @@
 - [ ] Percentage difference in qualifying time from pole position * 100  (e.g. 102.3%)
 - [x] Starts in front-row
 - [ ] Races won in career
-- [ ] Races won in season till that race
+- [x] Races won in season till that race
 - [ ] Races started
 - [ ] Races finished
 - [ ] Pole positions won
 - [ ] Drivers championships won
 - [ ] Driver championship classification last year
-- [ ] Drivers championship position this season
+- [x] Drivers championship position this season
+- [x] Drivers championship points this season
 - [ ] Max, min, avg positions gained/lost during last X races
 - [ ] Max, min, avg finishing position in the last X races
 - [ ] Correlation between qualifying and race results per driver
@@ -36,10 +37,12 @@
 
 - [ ] Constructors championship won
 - [ ] Constructors races won
-- [ ] Constructors races won this that season
+- [x] Constructors races won that season
 - [ ] Constructors championship won in last X years
 - [ ] Constructors championship classification last year
-- [ ] Constructors championship position at the time
+- [x] Constructors championship position at the time
+- [x] Constructors championship points at the time
+- [x] Constructors wins that season at the time
 - [ ] Max (Team-mate qualifying position, Driver qualifying position)
 - [ ] Max, min, avg positions gained/lost during last X races
 - [ ] Max, min, avg position in the last X races
@@ -54,5 +57,6 @@
 - [x] Circuit name
 - [x] Race rank in season (i.e. 1-21)
 - [x] Year
+- [x] Racing in home country
 - [ ] Average overtakes per race
 - [ ] Correlation between race and qualifying results per circuit
