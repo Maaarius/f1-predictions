@@ -7,7 +7,7 @@
 - [x] Qualifying position
 - [x] Driver age at that time
 - [x] Years in F1
-- [ ] Percentage difference in qualifying time from pole position * 100  (e.g. 102.3%)
+- [x] Percentage difference in qualifying time from pole position * 100  (e.g. 102.3%)
 - [x] Starts in front-row
 - [x] Races won in career
 - [x] Races won in season till that race
