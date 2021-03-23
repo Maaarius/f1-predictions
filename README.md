@@ -21,8 +21,8 @@
 - [ ] Max, min, avg positions gained/lost during last X races
 - [ ] Max, min, avg finishing position in the last X races
 - [ ] Correlation between qualifying and race results per driver
-- [ ] Previous race final position
-- [ ] Previous race qualifying position
+- [x] Previous race final position
+- [x] Previous race qualifying position
 - [ ] Positions gained in previous race
 - [ ] Race and Qualifying position in same race last year
 - [ ] Positions gained in same race last year
