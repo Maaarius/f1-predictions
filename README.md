@@ -11,7 +11,7 @@
 - [x] Starts in front-row
 - [x] Races won in career
 - [x] Races won in season till that race
-- [ ] Races started
+- [ ] Races retired
 - [ ] Races finished
 - [ ] Pole positions won
 - [ ] Drivers championships won
