@@ -36,7 +36,7 @@
 ### Constructors Features
 
 - [ ] Constructors championship won
-- [ ] Constructors races won
+- [x] Constructors races won
 - [x] Constructors races won that season
 - [ ] Constructors championship won in last X years
 - [ ] Constructors championship classification last year
@@ -47,7 +47,7 @@
 - [ ] Max, min, avg positions gained/lost during last X races
 - [ ] Max, min, avg position in the last X races
 - [ ] Percentage difference in top-speed from top in last-race * 100 (e.g. 99.5%)
-- [ ] Times retired
+- [x] Times retired
 - [ ] Times retired in last X races
 - [ ] Max/min/avg speed in previous race
 - [ ] Rank on avg/std of speed in previous race
